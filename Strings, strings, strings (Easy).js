@@ -41,8 +41,11 @@
 // of all whitespace.
 //
 // Final Note - IMPORTANT
+//
 // Your recovered toString() methods should only return the stringified version of the input - it should NOT alter
 // the original value. Test cases have been created to confirm this.
+//
+//SOLUTION:
 
 Boolean.prototype.toString = function() {
     return this + '';
