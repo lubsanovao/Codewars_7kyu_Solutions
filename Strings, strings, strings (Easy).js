@@ -45,12 +45,12 @@
 // the original value. Test cases have been created to confirm this.
 
 Boolean.prototype.toString = function() {
-    return this + ''
-}
+    return this + '';
+};
 
 Number.prototype.toString = function() {
-    return this + ''
-}
+    return this + '';
+};
 
 Array.prototype.toString = function () {
     if (Array.isArray(this)) {
