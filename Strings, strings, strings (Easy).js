@@ -1,4 +1,4 @@
-//DESCRIPTION:
+// DESCRIPTION:
 // Note to Kata translators: Please carefully consider the suitability of your chosen language with regards to implementing
 // the idea proposed by this Kata before authoring and submitting a translation. "Inappropriate" language translations
 // (such as Python which has already been proven to be a poor candidate for this Kata) will be rejected by
